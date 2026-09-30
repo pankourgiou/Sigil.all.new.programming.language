@@ -1,0 +1,1 @@
+So this is an all new programming language called Sigil and associated with .sigil files...uses chinese characters for commands(mostly) it's a bit esoteric we can say-->so download the .html and double click it and experiment with it...there is also the dream easter egg which is kinda fun too!! I hope you enjoy!
